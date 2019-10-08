@@ -1,9 +1,7 @@
 import React from "react";
-// import {Numbers} from "../NumberButtons/Numbers"
-// import {numbers} from "../../../data"
 
- const NumberButton = (props) => {
-  console.log(props);
+ const NumberButton = props => {
+  
   return (
     <button className = "numberButton">
       
